@@ -1,6 +1,6 @@
 # Zip Zap
 
-<img src="/swift-as-the-wind.png" width="256">
+<img src="/icon512.png" width="256">
 
 # Privacy Policy
 
