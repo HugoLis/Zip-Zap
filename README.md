@@ -1,6 +1,6 @@
 # Zip Zap
 
-<img src="/icon512.png" width="256">
+<img src="/newIcon512.png" width="256">
 
 # Privacy Policy
 
