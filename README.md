@@ -1,4 +1,5 @@
 # Zip Zap
+[Download on the App Store](https://itunes.apple.com/br/app/zip-zap/id1463904567?l=en&mt=8)
 
 <img src="/newIcon512.png" width="256">
 
